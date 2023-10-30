@@ -1,0 +1,3 @@
+﻿using Singleton;
+
+Client.Execute();
